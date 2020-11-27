@@ -1,1 +1,1 @@
-# Portfolio-Website
+This website has been created for the purpose of placing my portfolio site project online. 
